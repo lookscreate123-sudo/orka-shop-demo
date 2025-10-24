@@ -1,0 +1,5 @@
+[
+  {"id":1, "title":"Men Cotton Shirt", "price":499, "category":"Clothes"},
+  {"id":2, "title":"Women Casual Shoes", "price":899, "category":"Shoes"},
+  {"id":3, "title":"Men Jeans", "price":999, "category":"Clothes"}
+]
